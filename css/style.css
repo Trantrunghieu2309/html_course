@@ -1,0 +1,9 @@
+table, tr, th, td, caption {
+    border : 1px solid #c7c7c7;
+    font-family: 'Courier New', Courier, monospace;
+    /* border-collapse: collapse; */
+    padding : 0.5rem;
+}
+footer{
+    height:1000px;
+}
